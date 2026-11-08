@@ -57,3 +57,6 @@ The lab is intended for **educational and authorized security testing only**. Ex
 - Build small cybersecurity projects
 - Explore OWASP Top 10 vulnerabilities
 - Document findings and lessons learned
+
+📸 Screenshot
+![](PHOTO-2026-11-09-02-00-36.jpg)
