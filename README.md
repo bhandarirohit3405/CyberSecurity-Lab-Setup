@@ -60,3 +60,4 @@ The lab is intended for **educational and authorized security testing only**. Ex
 
 📸 Screenshot
 ![](PHOTO-2026-11-09-02-00-36.jpg)
+![](PHOTO-2026-11-09-02-00-37.jpg)
